@@ -1,2 +1,0 @@
-Esse trabalho tem como intuito transcrever um código utilizado na área de internet da coisas escrito inicialmente com arduino para C++.
-Link para o github do trabalho inicial: https://github.com/umjourje/CPS730-IoT-2023_3/tree/main
